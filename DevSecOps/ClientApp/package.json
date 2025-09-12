@@ -50,7 +50,7 @@
     "typescript": "3.9.10"
   },
   "optionalDependencies": {
-    "node-sass": "^7.0.0",
+    "node-sass": "^9.0.0",
     "protractor": "~5.4.2",
     "ts-node": "~8.10.0",
     "tslint": "~5.20.0"
