@@ -53,6 +53,6 @@
     "node-sass": "^9.0.0",
     "protractor": "~7.0.0",
     "ts-node": "~10.9.0",
-    "tslint": "~5.20.0"
+    "tslint": "~6.1.0"
   }
 }
