@@ -2,7 +2,7 @@ FROM mcr.microsoft.com/dotnet/core/aspnet:3.1-buster-slim AS base
 WORKDIR /app
 EXPOSE 80
 EXPOSE 443
-FROM node:10.15-alpine AS client 
+FROM node:24.20-alpine AS client 
 ARG skip_client_build=false 
 WORKDIR /app 
 COPY ClientApp . 
